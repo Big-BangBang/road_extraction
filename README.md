@@ -3,9 +3,9 @@ Code for the 1st place solution in [DeepGlobe Road Extraction Challenge](https:/
 
 # Requirements
 
-- Cuda 8.0
-- Python 2.7
-- Pytorch 0.2.0
+- Cuda 11.2
+- Python 3.8
+- Pytorch 1.11
 - cv2
 
 # Usage
@@ -21,7 +21,3 @@ Data is from [DeepGlobe Road Extraction Challenge](https://competitions.codalab.
 ### Predict
 - Run `python test.py` to predict on the default D-LinkNet34.
 
-### Download trained D-LinkNet34
-- [Dropbox](https://www.dropbox.com/sh/h62vr320eiy57tt/AAB5Tm43-efmtYzW_GFyUCfma?dl=0)
-- [百度网盘](https://pan.baidu.com/s/1wqyOEkw5o0bzbuj7gBMesQ)
-# road_extraction
