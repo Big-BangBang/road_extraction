@@ -1,6 +1,3 @@
-# DeepGlobe-Road-Extraction-Challenge
-Code for the 1st place solution in [DeepGlobe Road Extraction Challenge](https://competitions.codalab.org/competitions/18467).
-
 # Requirements
 
 - Cuda 11.2
